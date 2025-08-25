@@ -1,6 +1,6 @@
 # Code and Data for "A methodologically robust densification function for snow on multiyear Arctic sea ice"
 
-### Mallett et al. (2025; [doi.org/10.1017/jog.2025.5](https://doi.org/10.1017/jog.2025.5))
+### Mallett, R.D.C. (2025; [doi.org/10.1017/jog.2025.5](https://doi.org/10.1017/jog.2025.5))
 ### Journal of Glaciology , Volume 71 , 2025 , e24
 
 Snow density measurements are contained in DENSITY.DAT. This file can be downloaded from the Joint US-Russian Sea Ice Atlas (Environmental Working Group, 2000).
